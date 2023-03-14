@@ -1,0 +1,16 @@
+Copyright 1986-2015 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2015.1 (lin64) Build 1215546 Mon Apr 27 19:07:21 MDT 2015
+| Date         : Thu Jun 18 13:15:21 2015
+| Host         : xsjapps50 running 64-bit Red Hat Enterprise Linux Workstation release 6.5 (Santiago)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'clk_200MHZ'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of clk_200MHZ (xilinx.com:ip:clk_wiz:5.1) from (Rev. 5) to (Rev. 6)
+

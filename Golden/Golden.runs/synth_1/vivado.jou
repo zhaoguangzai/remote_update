@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Tue Mar 14 14:55:37 2023
+# Process ID: 31904
+# Current directory: E:/xapp1247-multiboot-spi/Vivado/Golden/Golden.runs/synth_1
+# Command line: vivado.exe -log Top_mudule.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Top_mudule.tcl
+# Log file: E:/xapp1247-multiboot-spi/Vivado/Golden/Golden.runs/synth_1/Top_mudule.vds
+# Journal file: E:/xapp1247-multiboot-spi/Vivado/Golden/Golden.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Top_mudule.tcl -notrace

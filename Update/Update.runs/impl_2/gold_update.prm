@@ -1,0 +1,12 @@
+===================================
+Configuration Memory information
+===================================
+File Format        MCS
+Interface          SPIX4
+Size               128M
+Start Address      0x00000000
+End Address        0x07FFFFFF
+
+Addr1         Addr2         Date                    File(s)
+0x00000000    0x000317A7    Mar 14 14:57:53 2023    E:/xapp1247-multiboot-spi/Vivado/Golden/Golden.runs/impl_2/Top_mudule.bit
+0x04000000    0x040316A2    Mar 14 15:01:22 2023    E:/xapp1247-multiboot-spi/Vivado/Update/Update.runs/impl_2/update_module.bit

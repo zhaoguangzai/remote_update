@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="clk_200MHZ_synth_1" LaunchDir="/home/kkaur/Test_cases_all/Working_ref_testcase/Vivado/xapp1247/Vivado/Update/Update.runs/clk_200MHZ_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="/home/kkaur/Test_cases_all/Working_ref_testcase/Vivado/xapp1247/Vivado/Update/Update.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="clk_200MHZ_synth_1"/>
+	</Run>
+	<Run Id="impl_1" LaunchDir="/home/kkaur/Test_cases_all/Working_ref_testcase/Vivado/xapp1247/Vivado/Update/Update.runs/impl_1" FlowId="Vivado_Implementation" FromStepId="init_design" ToStepId="write_bitstream">
+		<Parent Id="synth_1"/>
+	</Run>
+</Runs>
+
